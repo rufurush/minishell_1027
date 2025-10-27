@@ -6,12 +6,12 @@
 /*   By: kotadashirui <kotadashirui@student.42.f    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/09/29 12:14:35 by kotadashiru       #+#    #+#             */
-/*   Updated: 2025/10/23 18:56:32 by kotadashiru      ###   ########.fr       */
+/*   Updated: 2025/10/27 14:44:58 by kotadashiru      ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "minishell.h"
-
+//rxample
 void	print_erro(char *err, char *msg)
 {
 	ft_putstr_fd(err, 2);
